@@ -21,7 +21,7 @@ Open the GNOME Terminal from [/src/](https://github.com/ivan-sincek/metagoofeel/
 Install required packages:
 
 ```fundamental
-apt-get install bc
+apt-get -y install bc
 ```
 
 Change file permissions:
